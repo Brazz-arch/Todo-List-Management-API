@@ -296,7 +296,7 @@ Beberapa mekanisme keamanan yang diterapkan:
 
 Project: **Todo List Management API**
 
-Repository: [GitHub - Todo List Management API](https://github.com/Afdhal-Riyadi/Todo-List-Management-API)
+Repository: [GitHub - Todo List Management API](https://github.com/Brazz-arch/Todo-List-Management-API)
 
 ---
 
