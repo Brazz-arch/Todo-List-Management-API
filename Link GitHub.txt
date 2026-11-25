@@ -1,6 +1,0 @@
-LINK GITHUB PROJECT
-
-Nama Project: Todo List Management API
-
-Repository:
-https://github.com/Brazz-arch/Todo-List-Management-API
